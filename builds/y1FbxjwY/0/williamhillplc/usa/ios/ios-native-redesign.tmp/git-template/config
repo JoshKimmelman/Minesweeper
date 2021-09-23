@@ -1,0 +1,4 @@
+[fetch]
+	recurseSubmodules = false
+[http "https://gitlab.com"]
+	sslCAInfo = /Users/jkimmelman/Projects/Minesweeper/builds/y1FbxjwY/0/williamhillplc/usa/ios/ios-native-redesign.tmp/CI_SERVER_TLS_CA_FILE
